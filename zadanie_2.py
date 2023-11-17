@@ -1,3 +1,2 @@
-name=input("Jak masz na imię?\n")
-surname=input("Jak masz na nazwisko?\n")
-print("Witaj {name} {surname}")
+name = input("What is your name? ")
+print("Hello, " + name + "!")
